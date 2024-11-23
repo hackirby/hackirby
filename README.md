@@ -2,7 +2,7 @@
   <img src="https://github.com/hackirby/hackirby/blob/main/kirby.gif?raw=true" width=100px>
   <br>
 
-  <img src="https://count.getloli.com/get/@:hackirby"/>
+  <img src="https://count.getloli.com/get/@:hackirby?darkmode=0"/>
   <br>
   
   <img src="https://skillicons.dev/icons?i=html,css,js,py,go,java">
